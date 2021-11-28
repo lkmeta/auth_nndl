@@ -1,1 +1,2 @@
-# auth_nndp
+# **Neural Networks - Deep Learning**  
+## **Exercises**
