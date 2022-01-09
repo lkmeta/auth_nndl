@@ -27,3 +27,9 @@ Digit Recognition from 0–9 using three different models with PCA.
 [3] Machine Learning Mastery: https://machinelearningmastery.com/
 
 [4] Scikit-learn: https://scikit-learn.org/ 
+
+[5] RBF model: https://bitbucket.org/tarlanahad/myneatcodes/src/master/RBFNN/Python/ 
+
+[6] RBF model: https://github.com/PetraVidnerova/rbf_keras 
+
+[7] PCA: https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60 
