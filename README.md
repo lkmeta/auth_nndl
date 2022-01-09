@@ -12,8 +12,8 @@ Odd vs Even digit recognition from 0–9 using three different models.
 
 ### **3rd Exercise:**  
 Digit Recognition from 0–9 using three different models with PCA. 
-   + [RBF model](https://github.com/lkmeta/auth_nndp/blob/main/3rd_exercise/rbf_model.ipynb)  
-   + [Nearest Neighbor model](https://github.com/lkmeta/auth_nndp/blob/main/3rd_exercise/nn_model.ipynb)
+   + [RBF model](https://github.com/lkmeta/auth_nndp/blob/main/3rd_exercise/rbf_models.ipynb)  
+   + [Nearest Neighbor model](https://github.com/lkmeta/auth_nndl/blob/main/3rd_exercise/knn_model.ipynb)
    + [Nearest Class Centroid model](https://github.com/lkmeta/auth_nndp/blob/main/3rd_exercise/ncc_model.ipynb)  
 
 
